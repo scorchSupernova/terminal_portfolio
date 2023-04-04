@@ -4,7 +4,7 @@ Favorite code quote? Hmmmm......, "<span id="k">Code is like humor. When you hav
 
 Hey! <!-- laglaglaglaglaglaglaglaglaglaglaglag -->
 <p>Completed my B.Sc in Computer Science and Engineering at International University of Business Agriculture and Tech. I am a sport programmer and also a Data-Science Enthusiast. I am a keen-learner, hard-worker but kinda introvert. I love to learn new algorithms, technologies. I love to play outdoor games like Cricket, Football etc. Besides, I love to listen to songs. Mainly I prefer to listen to Alternative Rocks Genre and among all the bands Tool is my favourite.</p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
-<p> Currently I am working as a Software Engineer at upay. Here I am using GoLang, Python most. Other than these I have in C++, Java, Django, Reactjs, Nodejs, Shell Scripting, Bash, Jquery, Cassandra, MongoDb, Postgresql, Mysql.<br/><br/></p><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->
+<p> Currently I am working as a Software Engineer at upay. Here I am using GoLang, Python most. Other than these I have experience in C++, Java, Django, Reactjs, Nodejs, Shell Scripting, Bash, Jquery, Cassandra, MongoDb, Postgresql, Mysql.<br/><br/></p><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->
 <p> Here is given some project links:</p><br/><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->
 <p><a href="https://github.com/scorchSupernova/Online-Resource-Sharing-System-"> Online Resource Sharing System (Java)</a>.</p><br/><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->
 <p><a href="https://github.com/scorchSupernova/Personal-Loan-Modelling"> Personal Loan Modeling(Python)</a>.</p><br/><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->  
