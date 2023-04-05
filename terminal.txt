@@ -21,6 +21,6 @@ Hey! <!-- laglaglaglaglaglaglaglaglaglaglaglag -->
 <p> You can download my updated resume from <a href="https://drive.google.com/file/d/1grR-yrzBHbNXzUQcA1D6-I14It_RPc0W/view?usp=sharing">Resume of Saidur Rahman Sajol</a>.</p>
 
 <p>You can also contact me by <br/></p><!-- slightdelayhere-->
-<p><a href="rahmansaidur970@gmail.com">Send a Mail</a></p><br/><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->
+<p>rahmansaidur970@gmail.com</p><br/><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->
 <p><a href="https://www.linkedin.com/in/saidur-rahman-sajol-50415b137/">LinkedIn</a></p><br/><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->
 <p>Cheers!</p>
