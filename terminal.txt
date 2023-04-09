@@ -1,4 +1,4 @@
-<span id="a">saidur@sajol</span>:<span id="b">~</span><span id="c">$</span> cd Saidur Rahman Sajol/<!-- kjsdfhkjdhsfkjdshfkj -->About_Us
+<span id="a">saidur@sajol</span>:<span id="b">~</span><span id="c">$</span> cd Saidur Rahman Sajol/<!-- kjsdfhkjdhsfkjdshfkj -->About_Me
 <span id="a">saidur@sajol</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->portflio.txt<br/><br/>
 Favorite code quote? Hmmmm......, "<span id="k">Code is like humor. When you have to explain it, it’s bad. :D</span>". <!-- sjkfhskjf -->
 
@@ -11,8 +11,8 @@ Hey! <!-- laglaglaglaglaglaglaglaglaglaglaglag -->
 <p><a href="https://github.com/scorchSupernova/code-generator-for-mircroservice-abesh-library"> Code Generator For Microservice Library (Golang)</a>.</p><br/><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->  
 <p><a href="https://github.com/scorchSupernova/r1ruru-My-Personal-Mail-Sender"> Advanced Mail Sender with Mail Verification (Python) </a>.</p><br/><br/><br/><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->  
 
-<p>Also I like to solve problems. I am comeptitive programmer by passion.</p><br/><!-- hsdgfhjfkdjhfkjsdhfkjdshfkjsdhfkjsdhkfjhdskjfhksdjhfkdsj -->
-<p>Here is given online judge profile links:</p><br/><!-- hsdgfhjfkdjhfkjsdhfkjdshfkjsdhfkjsdhkfjhdskjfhksdjhfkdsj -->
+<p>Also I like to solve problems. I am a comeptitive programmer by passion.</p><br/><!-- hsdgfhjfkdjhfkjsdhfkjdshfkjsdhfkjsdhkfjhdskjfhksdjhfkdsj -->
+<p>Here is given online judge profiles links:</p><br/><!-- hsdgfhjfkdjhfkjsdhfkjdshfkjsdhfkjsdhkfjhdskjfhksdjhfkdsj -->
 <p><a href="https://codeforces.com/profile/d0uch3b4g">d0uch3b4g (codeforces)</a></p><br/><!-- hsdgfhjfkdjhfkjsdhfkjdshfkjsdhfkjsdhkfjhdskjfhksdjhfkdsj -->
 <p><a href="https://www.codechef.com/users/sajol001">sajol001 (codechef)</a></p><br/><!-- hsdgfhjfkdjhfkjsdhfkjdshfkjsdhfkjsdhkfjhdskjfhksdjhfkdsj -->
 <p><a href="https://uhunt.onlinejudge.org/id/874781">saidur_sajol (uhunt)</a></p><br/><!-- hsdgfhjfkdjhfkjsdhfkjdshfkjsdhfkjsdhkfjhdskjfhksdjhfkdsj -->
